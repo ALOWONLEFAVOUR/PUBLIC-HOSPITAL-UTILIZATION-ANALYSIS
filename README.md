@@ -15,7 +15,7 @@ The primary analysis used for this datset is public-hospital-utilization-report-
 - conditional formating
   
  ### Dashboard preview 
-! [public hospital dashboard] [asto screenshot.png]
+![public hospital dashboard](asto.png)
 
 ### Data cleaning and preparation 
  - Removed duplicate record
