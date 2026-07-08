@@ -15,7 +15,7 @@ The primary analysis used for this datset is public-hospital-utilization-report-
 - conditional formating
   
  ### Dashboard preview 
-Interactive excel dashboard featuring kpis,charts,pivot tables,and slicers for analyzing hospital admissions,mortality,service utilization,patients demographics and departmental peformance
+! [public hospital dashboard] [asto screenshot.png]
 
 ### Data cleaning and preparation 
  - Removed duplicate record
