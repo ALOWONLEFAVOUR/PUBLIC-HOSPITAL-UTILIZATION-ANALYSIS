@@ -43,5 +43,23 @@ Interactive excel dashboard featuring kpis,charts,pivot tables,and slicers for a
  - state with highest patient admissions
  - most common patient for deparment for female patient
 
- ### Results and findind
+ ### Results and findings
+ - Female patients accounted for a slightly higher percentage of admissions than males.
+	- The mortality rate was approximately 5.01%.
+	- The average hospital stay was 3 days.
+	- Patient admissions varied significantly across states, with one state recording the highest volume.
+ - Service demand and departmental performance differed, highlighting areas requiring operational improvement.
+
+### Challenges
+	-	Cleaning inconsistent data entries
+	-	Ensuring accurate KPI calculations
+	-	Organizing large datasets for efficient analysis
+	-	Creating clear and interactive dashboard visualizations
+
+ ### Recommendation
+	-	Improve resource allocation in high-demand departments.
+	-	Investigate departments with low discharge rates to identify operational bottlenecks.
+	-	Monitor mortality trends regularly to improve patient outcomes.
+	-	Use interactive dashboards for continuous performance monitoring and informed decision-making.
+	-	Leverage data insights to optimize hospital service delivery and patient care.
 
